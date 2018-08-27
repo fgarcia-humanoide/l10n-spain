@@ -42,7 +42,7 @@ https://github.com/OCA/account-financial-reporting.
 Usage
 =====
 
-Para crear un modelo, por ejemplo de un trimestre del año:
+Para crear un modelo, por ejemplo de un ejercicio:
 
 1. Ir a *Contabilidad > Declaraciones AEAT > Modelo 390*.
 2. Pulsar en el botón "Crear"
